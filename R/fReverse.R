@@ -4,6 +4,7 @@
 #' @param x
 #'
 #' @return Vector inverse
+#' @return Vector inverse End
 #' @export
 #'
 #' @examples
