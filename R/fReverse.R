@@ -4,7 +4,7 @@
 #' @param x
 #'
 #' @return Vector inverse
-#' @return Vector inverse End
+#' @return Vector inverse End Prueba 2
 #' @export
 #'
 #' @examples
